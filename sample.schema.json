@@ -3,5 +3,14 @@
     "$id": "https://raw.githubusercontent.com/matthew-matvei/json-schema-sample/master/sample.schema.json",
     "title": "Simple sample",
     "description": "A simple sample schema",
-    "type": "object"
+    "type": "object",
+    "properties": {
+        "requiredSimpleProp": {
+            "description": "A required property with a simple data type",
+            "type": "integer"
+        }
+    },
+    "required": [
+        "requiredSimpleProp"
+    ]
 }
