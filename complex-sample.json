@@ -1,0 +1,7 @@
+{
+    "requiredSimpleProp": 48,
+    "requiredComplexProp": {
+        "requiredChildProp": "Required"
+    },
+    "optionalEnumProp": "yes"
+}
