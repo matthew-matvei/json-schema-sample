@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "reference-sample-b.schema.json",
+    "title": "Reference sample B",
+    "description": "The secondary reference sample schema",
+    "type": "object",
+    "properties": {
+        "referencedProp": {
+            "description": "A property defined within the 'b' schema",
+            "type": "number"
+        }
+    }
+}

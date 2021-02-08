@@ -11,6 +11,12 @@
                 "/complex-sample.json"
             ],
             "url": "/complex-sample.schema.json"
+        },
+        {
+            "fileMatch": [
+                "/reference-sample.json"
+            ],
+            "url": "/reference-sample-a.schema.json"
         }
     ]
 }
