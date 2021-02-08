@@ -1,0 +1,16 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/sample.json"
+            ],
+            "url": "/sample.schema.json"
+        },
+        {
+            "fileMatch": [
+                "/complex-sample.json"
+            ],
+            "url": "/complex-sample.schema.json"
+        }
+    ]
+}
